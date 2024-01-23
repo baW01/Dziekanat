@@ -15,7 +15,7 @@ The **Dziekanat WordPress Plugin** is a PHP script designed for integration with
 3. **Configure**: the plugin settings according to your needs.
 
 ## Usage
-- On any page, use the shortcode [custom_scrape].
+- On any page, use the shortcode `[custom_scrape]`.
 
 ## Requirements
 - WordPress 5.0 or higher.
